@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Countdown</string>
+    <string name="no_countdown">Начните свой отсчет!</string>
+    <string name="event_name">Название события</string>
+    <string name="choose_date">Виберите дату</string>
+    <string name="choose_time">Виберите время</string>
+    <string name="invalid_time">Время должно быть больше текущего!</string>
+    <string name="time_is_coming">Вы дождались!</string>
+   <string name="notification_channel">Нотификации завершения отсчета</string>
+    <string name="add_new_event">Добавить новый отсчет</string>
+    <string name="want_undo_delete">Хотите отменить удаление?</string>
+    <string name="undo">Отменить</string>
+    <plurals name="days">
+        <item quantity="one">день</item>
+        <item quantity="few">дня</item>
+        <item quantity="many">дней</item>
+        <item quantity="other">дней</item>
+    </plurals>
+
+</resources>
